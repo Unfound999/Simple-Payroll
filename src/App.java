@@ -65,7 +65,7 @@ public class App {
             System.out.println("~~    Type VEL to view an employee list    ~~");
             System.out.println("~~   Type VE to view a specific employee   ~~");
             System.out.println("~~       Type PU to pay an employee        ~~");
-            System.out.println("~~       Type LO to logout                 ~~");
+            System.out.println("~~           Type LO to logout             ~~");
             System.out.println("~~       Type Q to exit the program        ~~");
             String answer = input.nextLine();
 
